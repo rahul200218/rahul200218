@@ -1,4 +1,6 @@
-![Profile Banner]([https://your-image-url.jpg](https://img.freepik.com/premium-photo/hacker-front-his-computer-committing-digital-cybercrime_398492-13771.jpg))
+<!-- Add an image at the top with width 100% -->
+![Profile Banner](https://img.freepik.com/premium-photo/hacker-front-his-computer-committing-digital-cybercrime_398492-13771.jpg)
+
 # 💫 About Me:
 i am currently working on react js and react fiber. just completed mongo db , node js 
 

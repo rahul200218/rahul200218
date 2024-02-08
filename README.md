@@ -1,7 +1,4 @@
-<!-- Add an image at the top with width 100% -->
-![Profile Banner](https://img.freepik.com/premium-photo/hacker-front-his-computer-committing-digital-cybercrime_398492-13771.jpg)
 
-<!-- Add an image at the top with width 100% -->
 <img src="https://img.freepik.com/premium-photo/hacker-front-his-computer-committing-digital-cybercrime_398492-13771.jpg" alt="Profile Banner" width="100%">
 
 # 💫 About Me:
@@ -18,4 +15,3 @@ i am currently working on react js and react fiber. just completed mongo db , no
 ---
 [![](https://visitcount.itsvg.in/api?id=rahul200218&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

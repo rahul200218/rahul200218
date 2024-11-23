@@ -2,7 +2,7 @@
 <img src="https://img.freepik.com/premium-photo/hacker-front-his-computer-committing-digital-cybercrime_398492-13771.jpg" alt="Profile Banner" width="100%">
 
 # 💫 About Me:
-i am currently working on react js and react fiber. just completed mongo db , node js 
+Nah !!! ..next time maybe ....
 
 
 # 💻 Tech Stack:
